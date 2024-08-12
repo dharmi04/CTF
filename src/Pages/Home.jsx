@@ -11,7 +11,7 @@ const Home = () => {
           Gear up, operative! The Syndicate is planning a massive heist, and only you can stop them. 
           Ready to start your adventure and save the world? Let's dive in!
         </p>
-        <a href="page1" className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 md:px-10 lg:px-12 rounded-full shadow-lg transition transform hover:scale-105">
+        <a href="/ZmxhZ3sxbjdyMWM0NzNfNGxsX3RoM19kuyer67i/page1" className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 md:px-10 lg:px-12 rounded-full shadow-lg transition transform hover:scale-105">
           Start Your Adventure
         </a>
       </div>

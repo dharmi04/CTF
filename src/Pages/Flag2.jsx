@@ -22,16 +22,19 @@ const Flag2 = () => {
           </p>
           <div className="bg-gray-800 p-4 rounded-lg text-gray-300 font-mono text-sm md:text-md whitespace-pre-wrap">
             2024-08-12 14:05:23: Received message from Syndicate operative.<br />
-            2024-08-12 14:06:07: <strong>U2N5YmVyLXNlY3VyaXR5LXBsYXRmb3JtLXNlY3JldA==</strong><br />
+            2024-08-12 14:06:07: <strong>V20xNGFGb3pkR2hSYlU1RlRUSmFTR0ZGYkhGVE1uaE9ZbXM1ZDFWWVNsUmtTREJMQ2c9PQo=</strong><br />
             2024-08-12 14:08:45: Message logged and stored for further analysis.<br />
             2024-08-12 14:10:17: Decoding required to proceed.
           </div>
         </div>
       </div>
     </div>
-      <a href="page3" className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 md:px-10 lg:px-12 rounded-full shadow-lg transition transform hover:scale-105">
+    <div className='p-4 flex justify-center'>
+
+      <a href="/ZmxhZ3sxbjdyMWM0NzNfNGxsX3RoM19kNHQ0fQo=/page3" className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 md:px-8 lg:px-10 rounded-full shadow-lg transition transform hover:scale-105 text-center max-w-xs w-full">
           Next Flag
         </a>
+    </div>
     </div>
   );
 }
